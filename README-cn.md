@@ -1,15 +1,14 @@
-# rime-dran-roq-sreq-wu
+# 常熟说话吴语罗马化方案
 
-[中文版本](./README-cn.md)
-Romanization project of Wu Chinese, Changshu dialect
+# 介绍
 
-# Introduction
+常熟话是汉语族中吴语的一个方言，位于江苏常熟。本罗马方案为虞山镇方言，常熟话的代表方言。常熟话有着庞大的 33 个声母组，39 个韵母组，以及完整的 8 个中古声调。
 
-Changshunese, also known as the Changshu dialect, is a variety of Sinitic languages spoken in the city of Changshu in Jiangsu Province, China. Changshunese is closely related to Suzhounese, also a variety of Wu Chinese. Chanshunese has 33 initial consonants, 39 vowel finals, and 8 tones, which is preserved in the most complete form among dialects of Wu Chinese.
+由于音韵，语法和词汇的很大不同，常熟方言与苏州，上海等已经有罗马化方案的吴语互通能力仍然较弱，罗马化方案不适合。尤其是因为常熟话尖团，平翘分明，苏州上海等地已经合流。
 
-Due to the additional retroflex consonants and the distinction between dental and palatal affricates (尖团), other romanization proposals do not work with Changshunese, not to mention the drastic differences in vocabulary, grammar and vowel qualities, even compared with Suzhounese.
+音韵研究取自莫娲的博士论文，《常熟方言音韵演变研究》。
 
-## Consonants
+## 声母
 
 |           |           | Labial | Dental | Retroflex | Palatal | Velar | Glotta |
 | :-------: | :-------: | :----: | :----: | :-------: | :-----: | :---: | :----: |
