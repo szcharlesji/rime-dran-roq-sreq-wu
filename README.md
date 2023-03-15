@@ -25,4 +25,4 @@ Due to the additional retroflex consonants and the distinction between dental an
 
 ## Vowels
 
-![vowel](./img/vowel.jpg)
+![vowel](./img/vowel.jpeg)
