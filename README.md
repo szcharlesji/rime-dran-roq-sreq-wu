@@ -10,11 +10,11 @@ Due to the additional retroflex consonants and the distinction between dental an
 | :-------: | :-------: | :----: | :----: | :-------: | :-----: | :---: | :----: |
 |   Nasal   |           |   m    |   n    |           |    ɲ    |   ŋ   |        |
 |  Plosive  |  tenuis   |   p    |   t    |           |         |   k   |   ʔ    |
-|           | aspirated | p^(h)  | t^(h)  |           |         | k^(h) |        |
+|           | aspirated |   pʰ   |   tʰ   |           |         |  kʰ   |        |
 |           |  voiced   |   b    |   d    |           |         |   g   |        |
 | Affricate |  tenuis   |        |   ts   |    ʈʂ     |   tɕ    |       |        |
-|           | aspirated |        | ts^(h) |  ʈʂ^(h)   | tɕ^(h)  |       |        |
-|           |  voiced   |        |   dz   |  ɖʐ^(h)   |   dʑ    |       |        |
+|           | aspirated |        |  tsʰ   |    ʈʂʰ    |   tɕʰ   |       |        |
+|           |  voiced   |        |   dz   |    ɖʐ     |   dʑ    |       |        |
 | Fricative | voiceless |   f    |   s    |     ʂ     |    ɕ    |       |   h    |
 |           |  voiced   |   v    |   z    |     ʐ     |         |       |   h    |
 |  Lateral  |           |        |   l    |           |         |       |        |
