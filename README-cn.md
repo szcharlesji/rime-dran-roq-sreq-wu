@@ -42,35 +42,51 @@
 ## 例词
 
 罗马常拼：ng sii dran roq njin
+
 吴语正字：吾是常熟人
+
 官话翻译：我是常熟人
 
 罗马常拼：ng tjin tro veq zang keo
+
 吴语正字：吾今朝弗上课
+
 官话翻译：我今天不上课
 
 罗马常拼：ng wu dran roq sreq wu
+
 吴语正字：吾话常熟说话
+
 官话翻译：我说常熟话
 
 罗马常拼：gei ghoq dan leq lan sra keq dran hu？
+
 吴语正字：渠学堂叻塱啥个场化？
+
 官话翻译：他学校在什么地方？
 
 罗马常拼：wu pee njiq nen srha dren kuan ghee tree？
+
 吴语正字：下半日倷啥辰光回转？
+
 官话翻译：你下午什么时候回家？
 
 罗马常拼：gei teq tseo srha veq taq ng li iq do khei
+
 吴语正字：渠嘚做啥弗搭吾哩一道去
+
 官话翻译：他们为什么不和我们一起去
 
 罗马常拼：keq keq dran hu zeq nen gak din bu tjhi tshu ja veq le keq
+
 吴语正字：嗰个场化贼恁劜停部汽车也弗来嘅（部分正字不确定）
+
 官话翻译：哪个地方这么拥挤，汽车也不好停
 
 罗马常拼：ng tsaq de tseq ngaq teq tseq iq khuei
+
 吴语正字：吾只台子齾特忒则一块（部分正字不确定）
+
 官话翻译：我这个桌子缺了个角
 
 <!-- 罗马常拼： -->
